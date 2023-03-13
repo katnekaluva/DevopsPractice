@@ -1,0 +1,30 @@
+---
+- hosts: all
+  become: true
+  gather_facts: false
+  tasks:
+
+  - name: new file
+    copy:
+     src: /home/ansadmin/{{item.file}}
+     dest: '{{item.dest}}'
+    with_items:
+     - { file: hello.html, dest: /home/jnk_naren }
+  - name : create a file
+    file :
+     path: /home/jnk_naren/f3
+     state: touch
+
+  - name: file list
+    shell: "ls -l /home/jnk_naren >> f3"
+  - name: print the message
+    debug:
+     msg: "hi iam"
+
+
+  - name: install httpd
+    yum:
+     name: "{{item}}"
+     state: present
+    with_items:
+     - git

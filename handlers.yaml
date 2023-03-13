@@ -1,0 +1,28 @@
+---
+- hosts: all
+  gather_facts: false
+  become: true
+  handlers:
+   - name: Restart the httpd service
+     systemd:
+       name: httpd
+       state: restarted
+  vars:
+    companyName: mithun
+    location: us
+  tasks:
+   - name: intstall apache server
+     yum:
+      name: httpd
+      state: latest
+   - name: copy index.htm 
+     template:
+      src: index.html
+      dest: /var/www/html/index.html
+     notify:
+      - Restart the httpd service
+        # handlers:
+        #   - name: Restart the httpd service
+        # systemd:
+        # name: httpd
+        #  state: restarted

@@ -1,0 +1,24 @@
+total 76
+-rw-rw-r--  1 ansadmin ansadmin  242 Feb 14 08:59 debug.yaml
+-rw-rw-r--  1 ansadmin ansadmin   23 Feb 14 05:57 devops.txt
+-rw-rw-r--  1 ansadmin ansadmin   30 Feb 14 08:07 dev_vars.yml
+-rw-r--r--  1 root     root        0 Feb 21 10:33 f1
+-rw-rw-r--  1 ansadmin ansadmin    0 Mar  6 02:48 f3
+-rw-rw-r--  1 ansadmin ansadmin  187 Feb 14 07:16 filemodule.yml
+-rw-rw-r--  1 ansadmin ansadmin  583 Feb 15 07:13 handlers.yaml
+-rw-rw-r--  1 ansadmin ansadmin   49 Feb 13 11:20 hello.html
+-r--------  1 ansadmin ansadmin 1680 Feb 21 10:14 hosts.pem
+drwxrwxr-x 10 ansadmin ansadmin  154 Feb 15 07:09 http
+-rw-rw-r--  1 ansadmin ansadmin   52 Feb 14 09:24 index.html
+-rw-rw-r--  1 ansadmin ansadmin  581 Feb 14 08:09 installhttpd.yaml
+-rw-rw-r--  1 ansadmin ansadmin  235 Feb 15 04:57 loops1.yaml
+-rw-rw-r--  1 ansadmin ansadmin  244 Feb 15 05:11 loops2.yaml
+-rw-rw-r--  1 ansadmin ansadmin  131 Feb 15 05:17 loops3.yaml
+-rw-rw-r--  1 ansadmin ansadmin  443 Mar  6 02:44 plybook0603.yml
+-rw-rw-r--  1 ansadmin ansadmin  166 Feb 21 10:45 pullwebappfile.yaml
+-rw-rw-r--  1 ansadmin ansadmin  102 Feb 15 07:27 roles.yml
+-rw-rw-r--  1 ansadmin ansadmin  184 Feb 14 06:33 sampleplaybook.yaml
+-rw-rw-r--  1 ansadmin ansadmin  413 Feb 15 06:20 tagsdemo.yaml
+-rw-rw-r--  1 ansadmin ansadmin   29 Feb 14 07:54 vars.yaml
+drwxrwxr-x  2 ansadmin ansadmin   39 Feb 21 10:58 war
+-rw-rw-r--  1 ansadmin ansadmin  287 Feb 15 05:58 whencondition.yaml

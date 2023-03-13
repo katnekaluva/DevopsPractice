@@ -1,0 +1,14 @@
+---
+- hosts: all
+  gather_facts: false
+  become: true
+  vars:
+   companyname: mithun
+   location: us
+  tasks:
+   - name: Display variable value
+     debug:
+       #      var: companyname
+       msg: "the company name is {{companyname}}"
+...
+

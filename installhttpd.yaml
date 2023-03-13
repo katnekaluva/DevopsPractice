@@ -1,0 +1,27 @@
+---
+- hosts: all
+  gather_facts: false
+  become: true
+  vars_files:
+   - vars.yaml
+     #"{{env}}_ vars".yaml while executing playbook ansible-playbook installhttpd.yaml -e env=dev
+    #companyName: MSS
+    #location: us
+  tasks:
+  - name: Install httpd server
+    yum:
+     name: httpd
+     state: latest
+  - name: copy the file
+    template:
+     src: /home/ansadmin/index.html
+     dest: /var/www/html/index.html
+  - name: Enable httpd service
+    systemd:
+     name: httpd
+     enabled: true
+  - name: start the httpd service
+    systemd:
+     name: httpd
+     state: started
+

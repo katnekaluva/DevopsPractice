@@ -1,0 +1,8 @@
+---
+- hosts: all
+  become: true
+  gather_facts: false
+  tasks:
+  - name: pull war from own repos
+    shell: |
+        scp /tmp/test/a.war tomcat@202.203.204.44:/tmp/

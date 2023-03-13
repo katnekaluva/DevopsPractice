@@ -1,0 +1,17 @@
+---
+- hosts: all
+  become: true
+  gather_facts: false
+  vars:
+   install: installed
+  tasks:
+  - name: install git
+    yum:
+     name: git
+     state: present
+  - name: printing the mesag
+    debug:
+     msg: "git is {{install}}"
+  
+
+

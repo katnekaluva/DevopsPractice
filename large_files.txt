@@ -1,0 +1,4 @@
+5.1M	/home/ansadmin/war/maven-web-application.war
+568K	/home/ansadmin/.cache/amzn2extras/catalog-cache-1001
+24K	/home/ansadmin/.bash_history
+12K	/home/ansadmin/.viminfo

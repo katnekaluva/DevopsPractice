@@ -1,0 +1,11 @@
+---
+- hosts: all
+  gather_facts: false
+  become: true
+  tasks:
+  - name: Create the file
+    file:
+     owner: ansadmin
+     group: ansadmin 
+     path: /tmp/devops.txt
+     state: touch

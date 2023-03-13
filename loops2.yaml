@@ -1,0 +1,16 @@
+---
+- hosts: all
+  become: true
+  gather_facts: false
+  tasks:
+   - name: install packages
+     yum:
+      name: [git,vim]
+      state: present
+       #      name: "{{item}}"
+       # with_items:
+       # - git
+       # - vim
+       #- httpd
+
+

@@ -1,0 +1,12 @@
+---
+# tasks file for http
+- name: install httpd server
+  yum:
+   name: httpd
+   state: latest
+- name: copying index.html
+  template:
+   src: index.html
+   dest: /var/www/html/index.html
+  notify:
+   - Restart the httpd service

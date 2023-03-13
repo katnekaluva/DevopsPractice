@@ -1,0 +1,6 @@
+---
+# handlers file for http
+- name: Restart the httpd service
+  systemd:
+    name: httpd
+    state: restarted

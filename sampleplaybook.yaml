@@ -1,0 +1,13 @@
+---
+- hosts: all
+  become: true
+  gather_facts: false
+  tasks:
+    - name: Ping Servers
+      ping: 
+
+    - name: install httpd
+      yum:
+       name: httpd
+       state: present
+...
