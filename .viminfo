@@ -14,10 +14,10 @@
 ~MSle0~/root
 
 # Command Line History (newest to oldest):
-:q
-|2,0,1680070871,,"q"
 :wq
-|2,0,1680070818,,"wq"
+|2,0,1680074094,,"wq"
+:q
+|2,0,1680073474,,"q"
 :set nu
 |2,0,1680068550,,"set nu"
 :q!
@@ -36,36 +36,170 @@
 # Registers:
 
 # File marks:
-'0  9  3  ~/odd.sh
-|4,48,9,3,1680070871,"~/odd.sh"
-'1  9  3  ~/odd.sh
-|4,49,9,3,1680070818,"~/odd.sh"
-'2  22  0  ~/primenumbess.sh
-|4,50,22,0,1680070400,"~/primenumbess.sh"
-'3  24  25  ~/primenumber.sh
-|4,51,24,25,1680069872,"~/primenumber.sh"
-'4  24  25  ~/primenumber.sh
-|4,52,24,25,1680069778,"~/primenumber.sh"
-'5  26  7  ~/primenumber.sh
-|4,53,26,7,1680069741,"~/primenumber.sh"
-'6  26  7  ~/primenumber.sh
-|4,54,26,7,1680069741,"~/primenumber.sh"
-'7  26  7  ~/primenumber.sh
-|4,55,26,7,1680069741,"~/primenumber.sh"
-'8  26  7  ~/primenumber.sh
-|4,56,26,7,1680069741,"~/primenumber.sh"
-'9  27  3  ~/primenumber.sh
-|4,57,27,3,1680069598,"~/primenumber.sh"
+'0  1  70  ~/.my-credentials-file
+|4,48,1,70,1680074094,"~/.my-credentials-file"
+'1  1  0  ~/f1
+|4,49,1,0,1680073572,"~/f1"
+'2  1  0  ~/f1
+|4,50,1,0,1680073474,"~/f1"
+'3  1  0  ~/f1
+|4,51,1,0,1680073437,"~/f1"
+'4  1  0  ~/f1
+|4,52,1,0,1680073437,"~/f1"
+'5  9  3  ~/odd.sh
+|4,53,9,3,1680070871,"~/odd.sh"
+'6  9  3  ~/odd.sh
+|4,54,9,3,1680070818,"~/odd.sh"
+'7  22  0  ~/primenumbess.sh
+|4,55,22,0,1680070400,"~/primenumbess.sh"
+'8  24  25  ~/primenumber.sh
+|4,56,24,25,1680069872,"~/primenumber.sh"
+'9  24  25  ~/primenumber.sh
+|4,57,24,25,1680069778,"~/primenumber.sh"
 
 # Jumplist (newest first):
+-'  1  70  ~/.my-credentials-file
+|4,39,1,70,1680074094,"~/.my-credentials-file"
+-'  1  0  ~/f1
+|4,39,1,0,1680073572,"~/f1"
+-'  1  0  ~/f1
+|4,39,1,0,1680073572,"~/f1"
+-'  1  0  ~/f1
+|4,39,1,0,1680073474,"~/f1"
+-'  1  0  ~/f1
+|4,39,1,0,1680073474,"~/f1"
+-'  1  0  ~/f1
+|4,39,1,0,1680073437,"~/f1"
+-'  1  0  ~/f1
+|4,39,1,0,1680073437,"~/f1"
 -'  9  3  ~/odd.sh
 |4,39,9,3,1680070871,"~/odd.sh"
+-'  9  3  ~/odd.sh
+|4,39,9,3,1680070871,"~/odd.sh"
+-'  9  3  ~/odd.sh
+|4,39,9,3,1680070871,"~/odd.sh"
+-'  9  3  ~/odd.sh
+|4,39,9,3,1680070871,"~/odd.sh"
+-'  9  3  ~/odd.sh
+|4,39,9,3,1680070871,"~/odd.sh"
+-'  9  3  ~/odd.sh
+|4,39,9,3,1680070871,"~/odd.sh"
+-'  9  3  ~/odd.sh
+|4,39,9,3,1680070871,"~/odd.sh"
+-'  9  3  ~/odd.sh
+|4,39,9,3,1680070871,"~/odd.sh"
+-'  9  3  ~/odd.sh
+|4,39,9,3,1680070871,"~/odd.sh"
+-'  9  3  ~/odd.sh
+|4,39,9,3,1680070871,"~/odd.sh"
+-'  9  3  ~/odd.sh
+|4,39,9,3,1680070871,"~/odd.sh"
+-'  9  3  ~/odd.sh
+|4,39,9,3,1680070871,"~/odd.sh"
+-'  9  3  ~/odd.sh
+|4,39,9,3,1680070871,"~/odd.sh"
+-'  9  3  ~/odd.sh
+|4,39,9,3,1680070871,"~/odd.sh"
+-'  9  3  ~/odd.sh
+|4,39,9,3,1680070871,"~/odd.sh"
+-'  9  3  ~/odd.sh
+|4,39,9,3,1680070871,"~/odd.sh"
+-'  9  3  ~/odd.sh
+|4,39,9,3,1680070818,"~/odd.sh"
+-'  9  3  ~/odd.sh
+|4,39,9,3,1680070818,"~/odd.sh"
+-'  9  3  ~/odd.sh
+|4,39,9,3,1680070818,"~/odd.sh"
+-'  9  3  ~/odd.sh
+|4,39,9,3,1680070818,"~/odd.sh"
+-'  9  3  ~/odd.sh
+|4,39,9,3,1680070818,"~/odd.sh"
+-'  9  3  ~/odd.sh
+|4,39,9,3,1680070818,"~/odd.sh"
+-'  9  3  ~/odd.sh
+|4,39,9,3,1680070818,"~/odd.sh"
+-'  9  3  ~/odd.sh
+|4,39,9,3,1680070818,"~/odd.sh"
+-'  9  3  ~/odd.sh
+|4,39,9,3,1680070818,"~/odd.sh"
+-'  9  3  ~/odd.sh
+|4,39,9,3,1680070818,"~/odd.sh"
+-'  9  3  ~/odd.sh
+|4,39,9,3,1680070818,"~/odd.sh"
+-'  9  3  ~/odd.sh
+|4,39,9,3,1680070818,"~/odd.sh"
+-'  9  3  ~/odd.sh
+|4,39,9,3,1680070818,"~/odd.sh"
+-'  9  3  ~/odd.sh
+|4,39,9,3,1680070818,"~/odd.sh"
+-'  9  3  ~/odd.sh
+|4,39,9,3,1680070818,"~/odd.sh"
 -'  9  3  ~/odd.sh
 |4,39,9,3,1680070818,"~/odd.sh"
 -'  1  0  ~/odd.sh
 |4,39,1,0,1680070512,"~/odd.sh"
 -'  1  0  ~/odd.sh
 |4,39,1,0,1680070512,"~/odd.sh"
+-'  1  0  ~/odd.sh
+|4,39,1,0,1680070512,"~/odd.sh"
+-'  1  0  ~/odd.sh
+|4,39,1,0,1680070512,"~/odd.sh"
+-'  1  0  ~/odd.sh
+|4,39,1,0,1680070512,"~/odd.sh"
+-'  1  0  ~/odd.sh
+|4,39,1,0,1680070512,"~/odd.sh"
+-'  1  0  ~/odd.sh
+|4,39,1,0,1680070512,"~/odd.sh"
+-'  1  0  ~/odd.sh
+|4,39,1,0,1680070512,"~/odd.sh"
+-'  1  0  ~/odd.sh
+|4,39,1,0,1680070512,"~/odd.sh"
+-'  1  0  ~/odd.sh
+|4,39,1,0,1680070512,"~/odd.sh"
+-'  1  0  ~/odd.sh
+|4,39,1,0,1680070512,"~/odd.sh"
+-'  1  0  ~/odd.sh
+|4,39,1,0,1680070512,"~/odd.sh"
+-'  1  0  ~/odd.sh
+|4,39,1,0,1680070512,"~/odd.sh"
+-'  1  0  ~/odd.sh
+|4,39,1,0,1680070512,"~/odd.sh"
+-'  1  0  ~/odd.sh
+|4,39,1,0,1680070512,"~/odd.sh"
+-'  1  0  ~/odd.sh
+|4,39,1,0,1680070512,"~/odd.sh"
+-'  1  0  ~/odd.sh
+|4,39,1,0,1680070512,"~/odd.sh"
+-'  1  0  ~/odd.sh
+|4,39,1,0,1680070512,"~/odd.sh"
+-'  1  0  ~/odd.sh
+|4,39,1,0,1680070512,"~/odd.sh"
+-'  1  0  ~/odd.sh
+|4,39,1,0,1680070512,"~/odd.sh"
+-'  1  0  ~/odd.sh
+|4,39,1,0,1680070512,"~/odd.sh"
+-'  1  0  ~/odd.sh
+|4,39,1,0,1680070512,"~/odd.sh"
+-'  1  0  ~/odd.sh
+|4,39,1,0,1680070512,"~/odd.sh"
+-'  1  0  ~/odd.sh
+|4,39,1,0,1680070512,"~/odd.sh"
+-'  1  0  ~/odd.sh
+|4,39,1,0,1680070512,"~/odd.sh"
+-'  1  0  ~/odd.sh
+|4,39,1,0,1680070512,"~/odd.sh"
+-'  1  0  ~/odd.sh
+|4,39,1,0,1680070512,"~/odd.sh"
+-'  1  0  ~/odd.sh
+|4,39,1,0,1680070512,"~/odd.sh"
+-'  1  0  ~/odd.sh
+|4,39,1,0,1680070512,"~/odd.sh"
+-'  1  0  ~/odd.sh
+|4,39,1,0,1680070512,"~/odd.sh"
+-'  1  0  ~/odd.sh
+|4,39,1,0,1680070512,"~/odd.sh"
+-'  1  0  ~/odd.sh
+|4,39,1,0,1680070512,"~/odd.sh"
 -'  22  0  ~/primenumbess.sh
 |4,39,22,0,1680070400,"~/primenumbess.sh"
 -'  22  0  ~/primenumbess.sh
@@ -74,192 +208,69 @@
 |4,39,22,0,1680070400,"~/primenumbess.sh"
 -'  22  0  ~/primenumbess.sh
 |4,39,22,0,1680070400,"~/primenumbess.sh"
--'  1  0  ~/primenumbess.sh
-|4,39,1,0,1680070390,"~/primenumbess.sh"
--'  1  0  ~/primenumbess.sh
-|4,39,1,0,1680070390,"~/primenumbess.sh"
--'  1  0  ~/primenumbess.sh
-|4,39,1,0,1680070390,"~/primenumbess.sh"
--'  1  0  ~/primenumbess.sh
-|4,39,1,0,1680070390,"~/primenumbess.sh"
--'  24  25  ~/primenumber.sh
-|4,39,24,25,1680069872,"~/primenumber.sh"
--'  24  25  ~/primenumber.sh
-|4,39,24,25,1680069872,"~/primenumber.sh"
--'  24  25  ~/primenumber.sh
-|4,39,24,25,1680069872,"~/primenumber.sh"
--'  24  25  ~/primenumber.sh
-|4,39,24,25,1680069872,"~/primenumber.sh"
--'  24  25  ~/primenumber.sh
-|4,39,24,25,1680069872,"~/primenumber.sh"
--'  24  25  ~/primenumber.sh
-|4,39,24,25,1680069872,"~/primenumber.sh"
--'  24  25  ~/primenumber.sh
-|4,39,24,25,1680069872,"~/primenumber.sh"
--'  24  25  ~/primenumber.sh
-|4,39,24,25,1680069872,"~/primenumber.sh"
--'  24  25  ~/primenumber.sh
-|4,39,24,25,1680069778,"~/primenumber.sh"
--'  24  25  ~/primenumber.sh
-|4,39,24,25,1680069778,"~/primenumber.sh"
--'  24  25  ~/primenumber.sh
-|4,39,24,25,1680069778,"~/primenumber.sh"
--'  24  25  ~/primenumber.sh
-|4,39,24,25,1680069778,"~/primenumber.sh"
--'  24  25  ~/primenumber.sh
-|4,39,24,25,1680069778,"~/primenumber.sh"
--'  24  25  ~/primenumber.sh
-|4,39,24,25,1680069778,"~/primenumber.sh"
--'  24  25  ~/primenumber.sh
-|4,39,24,25,1680069778,"~/primenumber.sh"
--'  24  25  ~/primenumber.sh
-|4,39,24,25,1680069778,"~/primenumber.sh"
--'  26  7  ~/primenumber.sh
-|4,39,26,7,1680069754,"~/primenumber.sh"
--'  26  7  ~/primenumber.sh
-|4,39,26,7,1680069754,"~/primenumber.sh"
--'  26  7  ~/primenumber.sh
-|4,39,26,7,1680069754,"~/primenumber.sh"
--'  26  7  ~/primenumber.sh
-|4,39,26,7,1680069754,"~/primenumber.sh"
--'  26  7  ~/primenumber.sh
-|4,39,26,7,1680069754,"~/primenumber.sh"
--'  26  7  ~/primenumber.sh
-|4,39,26,7,1680069754,"~/primenumber.sh"
--'  26  7  ~/primenumber.sh
-|4,39,26,7,1680069754,"~/primenumber.sh"
--'  26  7  ~/primenumber.sh
-|4,39,26,7,1680069754,"~/primenumber.sh"
--'  26  7  ~/primenumber.sh
-|4,39,26,7,1680069754,"~/primenumber.sh"
--'  26  7  ~/primenumber.sh
-|4,39,26,7,1680069754,"~/primenumber.sh"
--'  26  7  ~/primenumber.sh
-|4,39,26,7,1680069754,"~/primenumber.sh"
--'  26  7  ~/primenumber.sh
-|4,39,26,7,1680069754,"~/primenumber.sh"
--'  26  7  ~/primenumber.sh
-|4,39,26,7,1680069754,"~/primenumber.sh"
--'  26  7  ~/primenumber.sh
-|4,39,26,7,1680069754,"~/primenumber.sh"
--'  26  7  ~/primenumber.sh
-|4,39,26,7,1680069754,"~/primenumber.sh"
--'  26  7  ~/primenumber.sh
-|4,39,26,7,1680069754,"~/primenumber.sh"
--'  26  7  ~/primenumber.sh
-|4,39,26,7,1680069741,"~/primenumber.sh"
--'  26  7  ~/primenumber.sh
-|4,39,26,7,1680069741,"~/primenumber.sh"
--'  26  7  ~/primenumber.sh
-|4,39,26,7,1680069741,"~/primenumber.sh"
--'  26  7  ~/primenumber.sh
-|4,39,26,7,1680069741,"~/primenumber.sh"
--'  26  7  ~/primenumber.sh
-|4,39,26,7,1680069741,"~/primenumber.sh"
--'  26  7  ~/primenumber.sh
-|4,39,26,7,1680069741,"~/primenumber.sh"
--'  26  7  ~/primenumber.sh
-|4,39,26,7,1680069741,"~/primenumber.sh"
--'  26  7  ~/primenumber.sh
-|4,39,26,7,1680069741,"~/primenumber.sh"
--'  27  3  ~/primenumber.sh
-|4,39,27,3,1680069608,"~/primenumber.sh"
--'  27  3  ~/primenumber.sh
-|4,39,27,3,1680069608,"~/primenumber.sh"
--'  27  3  ~/primenumber.sh
-|4,39,27,3,1680069608,"~/primenumber.sh"
--'  27  3  ~/primenumber.sh
-|4,39,27,3,1680069608,"~/primenumber.sh"
--'  27  3  ~/primenumber.sh
-|4,39,27,3,1680069608,"~/primenumber.sh"
--'  27  3  ~/primenumber.sh
-|4,39,27,3,1680069608,"~/primenumber.sh"
--'  27  3  ~/primenumber.sh
-|4,39,27,3,1680069608,"~/primenumber.sh"
--'  27  3  ~/primenumber.sh
-|4,39,27,3,1680069608,"~/primenumber.sh"
--'  27  3  ~/primenumber.sh
-|4,39,27,3,1680069608,"~/primenumber.sh"
--'  27  3  ~/primenumber.sh
-|4,39,27,3,1680069608,"~/primenumber.sh"
--'  27  3  ~/primenumber.sh
-|4,39,27,3,1680069608,"~/primenumber.sh"
--'  27  3  ~/primenumber.sh
-|4,39,27,3,1680069608,"~/primenumber.sh"
--'  27  3  ~/primenumber.sh
-|4,39,27,3,1680069608,"~/primenumber.sh"
--'  27  3  ~/primenumber.sh
-|4,39,27,3,1680069608,"~/primenumber.sh"
--'  27  3  ~/primenumber.sh
-|4,39,27,3,1680069608,"~/primenumber.sh"
--'  27  3  ~/primenumber.sh
-|4,39,27,3,1680069608,"~/primenumber.sh"
--'  27  3  ~/primenumber.sh
-|4,39,27,3,1680069608,"~/primenumber.sh"
--'  27  3  ~/primenumber.sh
-|4,39,27,3,1680069608,"~/primenumber.sh"
--'  27  3  ~/primenumber.sh
-|4,39,27,3,1680069608,"~/primenumber.sh"
--'  27  3  ~/primenumber.sh
-|4,39,27,3,1680069608,"~/primenumber.sh"
--'  27  3  ~/primenumber.sh
-|4,39,27,3,1680069608,"~/primenumber.sh"
--'  27  3  ~/primenumber.sh
-|4,39,27,3,1680069608,"~/primenumber.sh"
--'  27  3  ~/primenumber.sh
-|4,39,27,3,1680069608,"~/primenumber.sh"
--'  27  3  ~/primenumber.sh
-|4,39,27,3,1680069608,"~/primenumber.sh"
--'  27  3  ~/primenumber.sh
-|4,39,27,3,1680069598,"~/primenumber.sh"
--'  27  3  ~/primenumber.sh
-|4,39,27,3,1680069598,"~/primenumber.sh"
--'  27  3  ~/primenumber.sh
-|4,39,27,3,1680069598,"~/primenumber.sh"
--'  27  3  ~/primenumber.sh
-|4,39,27,3,1680069598,"~/primenumber.sh"
--'  27  3  ~/primenumber.sh
-|4,39,27,3,1680069598,"~/primenumber.sh"
--'  27  3  ~/primenumber.sh
-|4,39,27,3,1680069598,"~/primenumber.sh"
--'  27  3  ~/primenumber.sh
-|4,39,27,3,1680069598,"~/primenumber.sh"
--'  27  3  ~/primenumber.sh
-|4,39,27,3,1680069598,"~/primenumber.sh"
--'  22  56  ~/primenumber.sh
-|4,39,22,56,1680069501,"~/primenumber.sh"
--'  22  56  ~/primenumber.sh
-|4,39,22,56,1680069501,"~/primenumber.sh"
--'  22  56  ~/primenumber.sh
-|4,39,22,56,1680069501,"~/primenumber.sh"
--'  22  56  ~/primenumber.sh
-|4,39,22,56,1680069501,"~/primenumber.sh"
--'  22  56  ~/primenumber.sh
-|4,39,22,56,1680069501,"~/primenumber.sh"
--'  22  56  ~/primenumber.sh
-|4,39,22,56,1680069501,"~/primenumber.sh"
--'  22  56  ~/primenumber.sh
-|4,39,22,56,1680069501,"~/primenumber.sh"
--'  22  56  ~/primenumber.sh
-|4,39,22,56,1680069501,"~/primenumber.sh"
--'  22  56  ~/primenumber.sh
-|4,39,22,56,1680069501,"~/primenumber.sh"
--'  22  56  ~/primenumber.sh
-|4,39,22,56,1680069501,"~/primenumber.sh"
--'  22  56  ~/primenumber.sh
-|4,39,22,56,1680069501,"~/primenumber.sh"
--'  22  56  ~/primenumber.sh
-|4,39,22,56,1680069501,"~/primenumber.sh"
--'  22  56  ~/primenumber.sh
-|4,39,22,56,1680069501,"~/primenumber.sh"
--'  22  56  ~/primenumber.sh
-|4,39,22,56,1680069501,"~/primenumber.sh"
--'  22  56  ~/primenumber.sh
-|4,39,22,56,1680069501,"~/primenumber.sh"
--'  22  56  ~/primenumber.sh
-|4,39,22,56,1680069501,"~/primenumber.sh"
+-'  22  0  ~/primenumbess.sh
+|4,39,22,0,1680070400,"~/primenumbess.sh"
+-'  22  0  ~/primenumbess.sh
+|4,39,22,0,1680070400,"~/primenumbess.sh"
+-'  22  0  ~/primenumbess.sh
+|4,39,22,0,1680070400,"~/primenumbess.sh"
+-'  22  0  ~/primenumbess.sh
+|4,39,22,0,1680070400,"~/primenumbess.sh"
+-'  22  0  ~/primenumbess.sh
+|4,39,22,0,1680070400,"~/primenumbess.sh"
+-'  22  0  ~/primenumbess.sh
+|4,39,22,0,1680070400,"~/primenumbess.sh"
+-'  22  0  ~/primenumbess.sh
+|4,39,22,0,1680070400,"~/primenumbess.sh"
+-'  22  0  ~/primenumbess.sh
+|4,39,22,0,1680070400,"~/primenumbess.sh"
+-'  22  0  ~/primenumbess.sh
+|4,39,22,0,1680070400,"~/primenumbess.sh"
+-'  22  0  ~/primenumbess.sh
+|4,39,22,0,1680070400,"~/primenumbess.sh"
+-'  22  0  ~/primenumbess.sh
+|4,39,22,0,1680070400,"~/primenumbess.sh"
+-'  22  0  ~/primenumbess.sh
+|4,39,22,0,1680070400,"~/primenumbess.sh"
+-'  22  0  ~/primenumbess.sh
+|4,39,22,0,1680070400,"~/primenumbess.sh"
+-'  22  0  ~/primenumbess.sh
+|4,39,22,0,1680070400,"~/primenumbess.sh"
+-'  22  0  ~/primenumbess.sh
+|4,39,22,0,1680070400,"~/primenumbess.sh"
+-'  22  0  ~/primenumbess.sh
+|4,39,22,0,1680070400,"~/primenumbess.sh"
+-'  22  0  ~/primenumbess.sh
+|4,39,22,0,1680070400,"~/primenumbess.sh"
+-'  22  0  ~/primenumbess.sh
+|4,39,22,0,1680070400,"~/primenumbess.sh"
+-'  22  0  ~/primenumbess.sh
+|4,39,22,0,1680070400,"~/primenumbess.sh"
+-'  22  0  ~/primenumbess.sh
+|4,39,22,0,1680070400,"~/primenumbess.sh"
+-'  22  0  ~/primenumbess.sh
+|4,39,22,0,1680070400,"~/primenumbess.sh"
+-'  22  0  ~/primenumbess.sh
+|4,39,22,0,1680070400,"~/primenumbess.sh"
+-'  22  0  ~/primenumbess.sh
+|4,39,22,0,1680070400,"~/primenumbess.sh"
+-'  22  0  ~/primenumbess.sh
+|4,39,22,0,1680070400,"~/primenumbess.sh"
+-'  22  0  ~/primenumbess.sh
+|4,39,22,0,1680070400,"~/primenumbess.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/.my-credentials-file
+	*	1680074090	0
+	"	1	70
+	^	1	71
+	.	1	71
+	+	1	71
+
+> ~/f1
+	*	1680073571	0
+	"	1	0
 
 > ~/odd.sh
 	*	1680070868	0
